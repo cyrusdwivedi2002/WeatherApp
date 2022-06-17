@@ -11,7 +11,10 @@ body {
     font-size: 120%;
 }
 
-
+h1 {
+    background-color: black;
+    color: white;
+}
 
 .temp {
     font-size: 120%;
