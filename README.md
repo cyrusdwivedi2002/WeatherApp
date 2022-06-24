@@ -1,4 +1,4 @@
-<img align="center" src="https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1622018926343.jpg-org">
+<img align="center" src="https://i.pcmag.com/imagery/articles/03U965EfZRPm5LLqw1rei78-9..v1569484179.jpg">
 <h4 align="center">Weather App.</h4>
 
 <hr>
