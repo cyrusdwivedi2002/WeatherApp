@@ -1,4 +1,4 @@
-<img align="center" src="https://play.google.com/store/apps/details?id=weatherapp.weatherradar.weather.forecast&hl=en_US&gl=US">
+<img align="center" src="https://ngs-space1.sgp1.digitaloceanspaces.com/am/uploads/mediaGallery/image/1622018926343.jpg-org">
 <h4 align="center">Weather App.</h4>
 
 <hr>
